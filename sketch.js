@@ -1,4 +1,4 @@
-var PLAY,END,gameState,highScore,monkey,m1,iGround,Obstacles,Bananas,survivalTime,life,eatenBananas,gameOver,restart,g1,r1,b1,s1,m2,Backdrop,b2;
+var PLAY,END,gameState,highScore,monkey,m1,iGround,Obstacles,Bananas,survivalTime,life,eatenBananas,gameOver,restart,g1,r1,b1,s1,m2,Backdrop,b2, ground;
 
 function preload(){
   m1=loadAnimation("Monkey_01.png","Monkey_02.png","Monkey_03.png","Monkey_04.png","Monkey_05.png","Monkey_06.png","Monkey_07.png","Monkey_08.png","Monkey_09.png","Monkey_10.png" ); 
